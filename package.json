@@ -1,8 +1,8 @@
 {
   "name": "to-camel-case",
   "repo": "Nami-Doc/to-camel-case",
-  "version": "0.0.1",
-  "keywords": ["camel-case", "camelCase"],
+  "version": "0.1.0",
+  "keywords": ["camel-case", "camelCase", "string", "case"],
   "devDependencies": {
     "mocha": "*",
     "should": "*"
