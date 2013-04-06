@@ -2,7 +2,7 @@
   "name": "to-camel-case",
   "repo": "Nami-Doc/to-camel-case",
   "description": "Converts a string to camelCase",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "keywords": [],
   "dependencies": {},
   "development": {},
