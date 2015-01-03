@@ -1,6 +1,6 @@
 {
   "name": "to-camel-case",
-  "repo": "Nami-Doc/to-camel-case",
+  "repo": "vendethiel/to-camel-case",
   "version": "0.2.0",
   "keywords": ["camel-case", "camelCase", "string", "case"],
   "devDependencies": {
