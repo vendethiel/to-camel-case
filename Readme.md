@@ -5,7 +5,7 @@
 
 ## Installation
 
-    $ component install Nami-Doc/to-camel-case
+    $ component install vendethiel/to-camel-case
 
     $ npm install to-camel-case
 
